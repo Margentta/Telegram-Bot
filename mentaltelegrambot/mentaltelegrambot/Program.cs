@@ -11,7 +11,7 @@ namespace mentaltelegrambot
         static void Main(string[] args)
            
         {
-           
+            Console.WriteLine("vse, ya spravilsya");
         }
     }
 }
